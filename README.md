@@ -11,7 +11,7 @@ I build **scalable systems and data-driven solutions** across software engineeri
 - Cloud-native applications & DevOps  
 - Business intelligence & data pipelines 
 
-**Web application development**,**Mobile application development**,**Desktop application development**, **Networking & Data communications**
+**Web application development** • **Mobile application development** • **Desktop application development** • **Networking & Data communications**
 
 ## 🛠️ Stack
 - **Runtimes**: JVM, Dotnet, JS runtimes, Webassembly
